@@ -10,7 +10,7 @@
 
 I am a passionate software developer who loves building tools, exploring network protocols, and working with open-source software. 
 
-- 🐧 **Linux Fanatic:** Big fan of Linus Torvalds and his philosophy. I closely follow his work and the Linux kernel development.
+- 🐧 **Linux Fanatic:** Big fan of Linus Torvalds and his philosophy. I follow his work with great interest and keep up with Linux kernel development.
 - 🛠️ **Current Focus:** Developing libraries and tools for network proxy configurations, SOCKS5, and Xray.
 - 🚀 **Philosophy:** Keep it simple, keep it fast, and keep it open-source.
 
