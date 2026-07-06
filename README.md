@@ -1,4 +1,4 @@
-# Hi there, I'm Javad! 👋
+# Hi there, I'm Hiddenioum! 👋
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&width=435&lines=Python+%26+Go+Developer;Tech+Learner;Linux+User;Clean+Code+Advocate" alt="Typing SVG" />
@@ -11,7 +11,7 @@
 I am a software developer focused on building clean, efficient, and high-quality tools. I write code in Python and Go, and I enjoy learning new concepts and technologies.
 
 - 🐧 **Linux & Linus:** I run Linux and admire Linus Torvalds' pragmatic engineering philosophy.
-- 🛠️ **Quality First:** I believe in writing robust code and doing it right the first time. *"Do a clean job once, rather than patching it multiple times."*
+- 🛠️ **Quality First:** *"I don't have enough time to do my work quickly, carelessly, and without principles. Quality always comes first."*
 - 🚀 **Philosophy:** Keep it simple, keep it efficient, and keep learning.
 
 ---
@@ -27,6 +27,18 @@ I am a software developer focused on building clean, efficient, and high-quality
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <!-- PHP -->
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+</p>
+<p align="left">
+  <!-- PostgreSQL -->
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <!-- MySQL -->
+  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <!-- SQLite -->
+  <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
+  <!-- Git -->
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <!-- Docker -->
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
 </p>
 <p align="left">
   <!-- Linux -->
