@@ -1,18 +1,18 @@
-# Hi there, I'm Hiddenioum! 👋
+# Hi there, I'm Javad! 👋
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&width=435&lines=Python+Developer;Go+Enthusiast;Linux+Lover;Open+Source+Contributor" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&width=435&lines=Python+%26+Go+Developer;Tech+Learner;Linux+User;Clean+Code+Advocate" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 💫 About Me
 
-I am a passionate software developer who loves building tools, exploring network protocols, and working with open-source software. 
+I am a software developer focused on building clean, efficient, and high-quality tools. I write code in Python and Go, and I enjoy learning new concepts and technologies.
 
-- 🐧 **Linux Fanatic:** Big fan of Linus Torvalds and his philosophy. I follow his work with great interest and keep up with Linux kernel development.
-- 🛠️ **Current Focus:** Developing libraries and tools for network proxy configurations, SOCKS5, and Xray.
-- 🚀 **Philosophy:** Keep it simple, keep it fast, and keep it open-source.
+- 🐧 **Linux & Linus:** I run Linux and admire Linus Torvalds' pragmatic engineering philosophy.
+- 🛠️ **Quality First:** I believe in writing robust code and doing it right the first time. *"Do a clean job once, rather than patching it multiple times."*
+- 🚀 **Philosophy:** Keep it simple, keep it efficient, and keep learning.
 
 ---
 
