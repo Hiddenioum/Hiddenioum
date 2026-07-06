@@ -53,7 +53,9 @@ I am a passionate software developer who loves building tools, exploring network
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hiddenioum&show_icons=true&theme=radical" alt="Hiddenioum's GitHub stats" />
+  <img src="https://github-stats-extended.vercel.app/api?username=Hiddenioum&show_icons=true&theme=radical" alt="Hiddenioum's GitHub stats" />
+  <br/><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Hiddenioum&theme=radical" alt="Hiddenioum's GitHub streak" />
 </p>
 
 ---
